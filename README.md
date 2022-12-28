@@ -1,4 +1,4 @@
-# Pure-Pin
+# Pure Pin One
 
 Pure Pin is a thin and experimental typeface with narrow proportions and light weight. It supports Thai and main latin-base languages from European and American regions. It’s a trendy, elegant and modern style font. This font is free for personal and commercial use. 
 
